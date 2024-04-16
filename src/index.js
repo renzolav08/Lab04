@@ -7,7 +7,6 @@ root.render(
     <StrictMode>
         <Message message="Hola 1"></Message>
         <Message message="Hola 2"></Message>
-        <Message></Message>
         <Message message="ayoh 1"></Message>
     </StrictMode>
 )
