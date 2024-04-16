@@ -1,9 +1,6 @@
 import React, { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
-
-const Message = () => {
-    return <h1> Message: </h1>
-}
+import Message from "./message";
 
 const root = createRoot(document.getElementById("root"));
 root.render(
