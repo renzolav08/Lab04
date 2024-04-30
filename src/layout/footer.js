@@ -6,7 +6,7 @@ const Footer = () => {
         <div className="container p-4 pb-0">
           <section className="">
             <p className="d-flex justify-content-center align-items-center">
-              <span className="me-3">Renzo's Website</span>
+              <span className="me-3">Gamer Store</span>
             </p>
           </section>
         </div>

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "HP Victus",
+        "slug": "laptop-1",
+        "description": "Laptop Victus Gaming 15-fa0000la · Procesador Intel® Core™ i5 de 12. · Windows 11 Home Single Language · 15.6",
+        "picture": "https://www.efe.com.pe/media/catalog/product/1/5/15-fb0125la_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700"
+    },
+    {
+        "name": "Asus Tuf F15",
+        "slug": "laptop-2",
+        "description": "Armada para el combate, ASUS TUF Gaming F15 viene equipada hasta con GPU GeForce® GTX 1660 Ti genera velocidades de cuadro altas con una gran variedad de juegos",
+        "picture": "https://www.efe.com.pe/media/catalog/product/f/x/fx507zc4-hn002w_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700"
+    },
+    {
+        "name": "Lenovo Ideapad Gaming 3",
+        "slug": "laptop-3",
+        "description": "Lleva tu experiencia gamer al siguiente nivel y obtén un rendimiento excepcional para tus juegos con las laptops IdeaPad Gaming de Lenovo",
+        "picture": "https://www.lacuracao.pe/media/catalog/product/8/2/82xv006elm_1_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700"
+    }
+]
