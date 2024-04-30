@@ -2,7 +2,7 @@ const Footer = () => {
     return <footer>
          <div className="container-expand-lg">
     <section className="">
-      <footer className="text-center text-white bg-info">
+      <footer className="text-center text-white bg-dark">
         <div className="container p-4 pb-0">
           <section className="">
             <p className="d-flex justify-content-center align-items-center">
