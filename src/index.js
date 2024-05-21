@@ -1,13 +1,14 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './style.css';
-import Single from './single';
-import Basic from './layout/basic';
-
 import {
     createBrowserRouter,
     RouterProvider,
     } from "react-router-dom";
 import { createRoot } from 'react-dom/client';
+import Single from './single';
+import Basic from './layout/basic';
+
+
 
     const feather = require('feather-icons');
 setTimeout( () =>{

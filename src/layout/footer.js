@@ -1,21 +1,13 @@
 const Footer = () => {
-    return <footer>
-         <div className="container-expand-lg">
-    <section className="">
-      <footer className="text-center text-white bg-dark">
-        <div className="container p-4 pb-0">
-          <section className="">
-            <p className="d-flex justify-content-center align-items-center">
-              <span className="me-3">Gamer Store</span>
-            </p>
-          </section>
-        </div>
-        <div className="text-center p-3">
-          Renzo Lavado
-        </div>
+  return (
+      <footer className="text-center text-white" style={{ backgroundColor: '#7751DD' }}>
+          <div className="container-fluid">
+              <div className="p-3">
+                  @ 2024 Renzo Lavado - Todos los derechos reservados
+              </div>
+          </div>
       </footer>
-    </section>
-  </div>
-    </footer>
+  );
 }
+
 export default Footer;

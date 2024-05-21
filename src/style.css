@@ -2,3 +2,28 @@
     color: black;
     padding: 5px;
 }
+
+/* En tu archivo CSS */
+.carousel-indicators li {
+    background-color: #EBE5FA; /* Cambia el color de fondo de los indicadores */
+}
+
+/* Si deseas cambiar el color de la línea indicadora cuando está activa, puedes hacerlo con este estilo */
+.carousel-indicators .active {
+    background-color: #7751DD; /* Cambia el color del indicador activo */
+}
+
+/* En tu archivo de estilos CSS */
+.btn-primary {
+    background-color: #7751DD;
+    border-color: #7751DD;
+}
+
+.btn-primary:hover {
+    background-color: #5c3b9d;
+    border-color: #5c3b9d;
+}
+.btn btn-primary{
+    background-color: #7751DD;
+    border-color: #7751DD;
+}
