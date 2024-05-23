@@ -4,11 +4,12 @@ import Footer from "./footer";
 import Main from "./main";
 import Header from "./header";
 import Aside from "./aside";
+
 const Basic = () => {
     return (
         <>
 <StrictMode>
-        <Header></Header>
+        <Header/>
         <div className="row d-flex justify-content-center align-items-center">
             <div className="col-md-6"> 
                 <Main subtittle="Carrusel"></Main>
